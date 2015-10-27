@@ -18,4 +18,9 @@ public class Ficha
             descricao = d;
         }
 
+        public String toString(){
+
+            return "Nome: "+nome+", idade: "+idade+"anos, profissão: "+profissao+", \n"+"descrição: "+descricao;
+        }
+
 }
