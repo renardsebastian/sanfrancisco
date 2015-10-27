@@ -9,15 +9,13 @@ public class Ficha
         public int idade;
         public String profissao;
         public String descricao;
-        public int antecedentes;
 
-        public Ficha (String n, int i, String p, String d, int a)
+        public Ficha (String n, int i, String p, String d)
         {
             nome = n;
             idade = i;
             profissao = p;
             descricao = d;
-            antecedentes = a;
         }
 
 }
