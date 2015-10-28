@@ -20,7 +20,7 @@ public class Ficha
 
         public String toString(){
 
-            return "Nome: "+nome+", idade: "+idade+"anos, profiss„o: "+profissao+", \n"+"descriÁ„o: "+descricao;
+            return "Nome: "+nome+", idade: "+idade+" anos, profiss√£o: "+profissao+", \n"+ "descri√ß√£o: "+descricao;
         }
 
 }
